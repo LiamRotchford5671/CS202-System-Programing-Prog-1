@@ -7,4 +7,10 @@ This program simulates the movement of a automated self driving car the base cal
 
 Data Structures: Array of linked lists & Linked list
 
-
+                 Map ---- Node
+                  |
+                  |
+                My_car
+                  |
+                  |
+Stoplight----Car_manager ---- Car Node
